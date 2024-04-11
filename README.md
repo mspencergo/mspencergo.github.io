@@ -24,12 +24,12 @@
 - Studied the data analysis life cycle, including data cleansing, analysis, and interpretation. Gained experience in using SQL, Tableau, and R Programming.
 
 ## Projects
-### [Cement Damage Detection]()
+### [Cement Damage Detection](https://github.com/mspencergo/Cement-Damage-Detection)
 **Areas**: Computer Vision, Python Programming, Machine Learning, Binary Classification
 
 This project used deep learning algorithms and transfer learning to classify cement images based on whether a crack is detected. Three different sub-projects were created based on different Python libraries. Each library produced a model with at least 99% accuracy on the test data. This project can be adapted for engineering applications such as equipment fault detection and structural integrity analysis.
 
-### [Road Sign Detection]()
+### [Road Sign Detection](https://github.com/mspencergo/Road-Sign-Detection)
 **Areas**: Computer Vision, Python Programming, Machine Learning, Multi-class Classification
 
 This project used deep learning algorithms and transfer learning to classify various road sign images. This was done using the Keras Python library with at least 88% accuracy on the test data. This project can be adapted for various applications, notably computer vision for self-driving cars.
